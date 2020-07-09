@@ -1,11 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
-## My Side Projects
+### My Side Projects
 
 **Vigie**  
 [Vigie](https://vigie.dev) is a high level monitoring software built to monitor and audit various application services. Check endpoints with built-in probes and confront the expected result with your own assertions.
 
-**Tag Policy**
+**Tag Policy**  
 Some advice for your cloud tagging policy [here](https://tag-policy.docs.vincoll.io/).
 
 <!--
