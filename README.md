@@ -6,7 +6,7 @@
 [Vigie](https://vigie.dev) is a high level monitoring software built to monitor and audit various application services. Check endpoints with built-in probes and confront the expected result with your own assertions.
 
 **Tag Policy**  
-Some advice for your cloud tagging policy [here](https://tag-policy.docs.vincoll.io/).
+Some advice for your cloud tagging policy [here](https://tag-policy.docs.vincoll.dev/).
 
 <!--
 **Vincoll/Vincoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
